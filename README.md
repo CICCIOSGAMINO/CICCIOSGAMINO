@@ -8,8 +8,8 @@ I'm Marco, proudly growed up in Bergamo but with the head running around the �
 
 ### NOW
 
-- 🪨 slabb / k.asd
-- ☄  comet-rating
+- 🪨 Planning slabb / k.asd
+- ☄  Planning comet-rating
 
 ### BIO
 
