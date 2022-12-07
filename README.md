@@ -2,8 +2,16 @@
 
 <!--
 **CICCIOSGAMINO/CICCIOSGAMINO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started: -->
+I'm Marco, proudly growed up in Bergamo but with the head running around the 🌎 ... I’m looking for help to empower the Web!
+
+### NOW
+
+- 🪨 slabb / k.asd
+- ☄  comet-rating
+
+### BIO
 
 - 🔭 I’m currently / always working on WebAPP | PWA
 - 🌱 I’m currently learning THE PLATFORM (WEB)
@@ -13,5 +21,3 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: marco.canali @ gmail
 - 😄 Pronouns: Him / He
 - ⚡ Fun fact: Climbing pals
-
-🤔 I’m looking for help to empower the Web! I'm Marco, proudly growed up in Bergamo but with the head running around the 🌎 ... 
