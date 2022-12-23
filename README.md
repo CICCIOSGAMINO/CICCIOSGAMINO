@@ -8,9 +8,9 @@ I'm Marco, proudly growed up in Bergamo but with the head running around the �
 
 ### NOW
 
-- 🪨 Planning slabb / k.asd
-- ☄  Planning comet-rating
-- 🇪🇺 Base Web Course / Web Course / Web P2P - holder
+- 🪨 Planning slabb / k.asd - webapp
+- 🔮  Planning mensur - rating webapp
+- 🇪🇺 Base Web Course / Web Course / WebApp Course / Web P2P  Course - holder
 
 ### BIO
 
