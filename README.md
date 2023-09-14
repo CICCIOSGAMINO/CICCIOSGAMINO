@@ -8,9 +8,9 @@ I'm Marco, proudly growed up in Bergamo but with the head running around the �
 
 ### NOW
 
-- 🪨 Planning slabb / k.asd - webapp
-- 🔮  Planning mensur - rating webapp
-- 🇪🇺 Base Web Course / Web Course / WebApp Course / Web P2P  Course - holder
+- 🪨 Dev. slabclimbing.com - webapp
+- 🔮 Dev Planning mensur - rating webapp
+- 🇪🇺 Web / Web Tech / WebApp / Web P2P  - Course holder
 
 ### BIO
 
@@ -21,4 +21,4 @@ I'm Marco, proudly growed up in Bergamo but with the head running around the �
 - 💬 Ask me about WebApp and Web to connect the people
 - 📫 How to reach me: marco.canali @ gmail
 - 😄 Pronouns: Him / He
-- ⚡ Fun fact: Climbing pals
+- 🏔 Fun fact: Running mountains, Climbing pals
